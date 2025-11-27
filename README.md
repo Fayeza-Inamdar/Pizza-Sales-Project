@@ -13,16 +13,16 @@ This project analyzes a full year (Jan–Dec 2015) of pizza sales data to uncove
 ---
    **Insights**  
 
-## **1. Sales Trends**
+ **1. Sales Trends**
 - Highest ordering occurs on **Friday & Saturday evenings**.  
 - **July and January** show peak monthly orders.
 
-## **2. Category Performance**
+ **2. Category Performance**
 - **Classic pizzas** generate the most revenue & orders.
 
-## **3. Best Sellers**
+ **3. Best Sellers**
 - Thai Chicken & Barbecue Chicken dominate revenue.  
 - Classic Deluxe sells the highest quantity.
 
-## **4. Worst Sellers**
+ **4. Worst Sellers**
 - Brie Carre contributes the least across all metrics.
