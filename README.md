@@ -26,3 +26,6 @@ This project analyzes a full year (Jan–Dec 2015) of pizza sales data to uncove
 
  **4. Worst Sellers**
 - Brie Carre contributes the least across all metrics.
+----
+**Dashboard Preview**
+<img width="1307" height="732" alt="image" src="https://github.com/user-attachments/assets/2f36c3ba-73da-4460-95c6-8817e72a4623" />
